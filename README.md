@@ -3,6 +3,6 @@
 A new Flutter application.
 
 #Icon
-<img src="https://user-images.githubusercontent.com/73787635/101789518-37250800-3b23-11eb-9474-0506b6887f16.png" height = 500, weight = 450/>
-![appstore](https://user-images.githubusercontent.com/73787635/132191938-16caecc3-3ded-4580-aab7-99694b3b0624.png)
+<img src="https://user-images.githubusercontent.com/73787635/132191938-16caecc3-3ded-4580-aab7-99694b3b0624.png" height = 500, weight = 450/>
+
 
